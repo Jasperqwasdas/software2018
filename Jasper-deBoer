@@ -1,0 +1,11 @@
+<ul>
+	<li>frisdrank</li>
+	<li>bier</li>
+		<ul>
+			<li>amstel</li>
+			<li>brand</li>
+			<li>grolsch</li>
+			<li>heineken</li>
+		</ul>
+	<li>koffie en thee</li>	
+</ul>
